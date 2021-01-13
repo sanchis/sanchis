@@ -1,20 +1,13 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="80px" width="100%" />
+  ![greetings](https://github.com/sanchis/sanchis/greetings.gif)
 </div>  
-  
 
 ### <div align="center">I'm Adrián Sanchis Gallego Senior Frontend developer with Angular+ 👨‍💻 working remotely since 2020 (Fuck covid 😷)</div>  
-  
 
 - 🔭 I’m currently working on Gfi as a Senior Frontend developer  
 - 🌱 I’m currently learning React/React Native  
 - ❓ Ask me about anything related to Angular+ stack and related technologies  
 - ⚡ Fun fact: I never have enough tabs open in my browser  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table>
   <tr>
@@ -57,7 +50,7 @@
 </tr></table>  
 
 ## Connect with me  
-<div align="center">
+<p align="center">
 <a href="https://github.com/sanchis" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -67,14 +60,14 @@
 <a href="https://stackoverflow.com/users/22499/sanchis" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</p>  
 
 ## Github Stats  
-<center ><img src="https://github-readme-stats.vercel.app/api?username=sanchis&show_icons=true&count_private=true&hide_border=true" align="center" /></center>  
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=sanchis&show_icons=true&count_private=true&hide_border=true" align="center" /></p>  
 </br/>
-<center>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanchis&&style=flat-square" align="center"  />
-</center>  
+</p>  
   
 
 ----
