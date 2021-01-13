@@ -5,9 +5,9 @@
 ### <div align="center">I'm Adrián Sanchis Gallego Senior Frontend developer with Angular+ 👨‍💻 working remotely since 2020 (Fuck covid 😷)</div>  
 
 - 🔭 I’m currently working on Gfi as a Senior Frontend developer  
-- 🌱 I’m currently learning React/React Native  
-- ❓ Ask me about anything related to Angular+ stack and related technologies  
-- ⚡ Fun fact: I never have enough tabs open in my browser  
+- 🌱 I’m currently learning **React/React Native**
+- ❓ Ask me about anything related to **Angular+** stack and related technologies  
+- ⚡ Fun fact: I never have enough tabs open in my browser 🤦‍♂️
 ## My Skill Set  
 <table>
   <tr>
@@ -22,7 +22,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
@@ -57,13 +56,13 @@
 <a href="https://linkedin.com/in/adrian-sanchis-gallego-817585119" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/22499/sanchis" target="_blank">
+<a href="https://es.stackoverflow.com/users/22499/sanchis" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </p>  
 
 ## Github Stats  
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=sanchis&show_icons=true&count_private=true&hide_border=true" align="center" /></p>  
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=sanchis&show_icons=true&count_private=true&hide_border=true&theme=vue-dark" align="center" /></p>  
 </br/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanchis&&style=flat-square" align="center"  />
