@@ -1,5 +1,5 @@
 <div align="center">
-  ![greetings](https://github.com/sanchis/sanchis/blob/main/greetings.gif)
+  ![greetings](https://raw.githubusercontent.com/sanchis/sanchis/main/greetings.gif)
 </div>  
 
 ### <div align="center">I'm Adrián Sanchis Gallego Senior Frontend developer with Angular+ 👨‍💻 working remotely since 2020 (Fuck covid 😷)</div>  
