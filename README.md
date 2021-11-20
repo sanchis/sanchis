@@ -2,7 +2,7 @@
   <img src="https://github.com/sanchis/sanchis/blob/main/greetings.gif?raw=true" align="center" width="100%" />
 </div>  
 
-### <div align="center">I'm Adrián Sanchis Gallego Senior Frontend developer with Angular+ 👨‍💻 working remotely since 2020 (Fuck covid 😷)</div>  
+### <div align="center">I'm Adrián Sanchis Gallego Senior Frontend developer 👨‍💻 working remotely since 2020 (Fuck covid 😷)</div>  
 
 - 🔭 I’m currently working on Gfi as a Senior Frontend developer  
 - 🌱 I’m currently learning **React/React Native**
