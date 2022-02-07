@@ -5,7 +5,7 @@
 ### <div align="center">I'm Adrián Sanchis Gallego Senior Frontend developer 👨‍💻 working remotely since 2020 (Fuck covid 😷)</div>  
 
 - 🔭 I’m currently working on devaway as a Senior Frontend developer  
-- 🌱 I’m currently learning **React/React Native**
+- 🌱 I’m currently learning **Python**
 - ❓ Ask me about anything related to **Angular+** stack and related technologies  
 - ⚡ Fun fact: I never have enough tabs open in my browser 🤦‍♂️
 ## My Skill Set  
